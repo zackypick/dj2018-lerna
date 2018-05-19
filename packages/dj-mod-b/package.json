@@ -1,0 +1,15 @@
+{
+    "name": "dj-mod-b",
+    "version": "0.1.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "bluebird": "^3.5.1",
+        "dj-mod-a": "^0.1.0"
+    }
+}
