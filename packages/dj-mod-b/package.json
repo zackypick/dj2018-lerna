@@ -1,6 +1,6 @@
 {
     "name": "dj-mod-b",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "",
     "main": "index.js",
     "scripts": {
@@ -10,6 +10,9 @@
     "license": "ISC",
     "dependencies": {
         "bluebird": "^3.5.1",
-        "dj-mod-a": "^0.2.0"
+        "dj-mod-a": "^0.2.1"
+    },
+    "devDependencies": {
+        "@types/underscore": "^1.8.8"
     }
 }
